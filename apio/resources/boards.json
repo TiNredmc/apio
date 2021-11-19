@@ -163,6 +163,17 @@
       "pid": "ffee"
     }
   },
+    "iCESugar-nano": {
+    "name": "iCESugar-nano",
+    "fpga": "iCE40-LP1K-CM36",
+    "programmer": {
+      "type": "icesprog"
+    },
+    "usb": {
+      "vid": "1d50",
+      "pid": "602b"
+    }
+  },
   "TinyFPGA-B2": {
     "name": "TinyFPGA B2",
     "fpga": "iCE40-LP8K-CM81",
